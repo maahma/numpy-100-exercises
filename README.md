@@ -1,2 +1,4 @@
-# numpy-100-exercises
-This repo contains my solutions to the 100 numpy exercises found here: https://github.com/rougier/numpy-100
+This repository contains:
+- Notes on NumPy from Zero to Mastery (Section 2: Data Science and ML Tools - Introduction to NumPy), originally available [here](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-numpy.ipynb)
+- My solutions to the 100 NumPy exercises provided by Professor Nicolas Rougier, available [here](https://github.com/rougier/numpy-100)
+- My solutions to additional NumPy exercises from Zero to Mastery, available here [here](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/numpy-exercises.ipynb)
